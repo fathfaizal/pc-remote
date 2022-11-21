@@ -1,0 +1,18 @@
+commit 6d15a39e82b82baa2f8c9db94698c1eee8d5dc04
+Merge: 2c56024 edef274
+Author: fathfaizal <fathfaizal@gmail.com>
+Date:   Tue Nov 1 13:42:08 2022 +0700
+
+    Merge branch 'main' of github.com:fathfaizal/pc-remote
+
+commit edef2740a799e2ab724dc718089a2cca0194e0ff
+Author: fathfaizal <110797743+fathfaizal@users.noreply.github.com>
+Date:   Tue Nov 1 13:38:43 2022 +0700
+
+    Initial commit
+
+commit 2c560241706e1e66448149bd90f2e2f40495a91b
+Author: fathfaizal <fathfaizal@gmail.com>
+Date:   Tue Sep 6 14:18:39 2022 +0700
+
+    buat dua file baru
